@@ -4,9 +4,9 @@
 ***
 
 ## Reach Out To Me!
-[![Github](https://github.com/dyl77/dyl77/blob/main/images/svg/github.svg)](https://github.com/dyl77)
-[![Linkedin](https://github.com/dyl77/dyl77/blob/main/images/svg/linkedin.svg)](https://www.linkedin.com/in/dylan-morris-2044371a1/)
-[![Gmail](https://github.com/dyl77/dyl77/blob/main/images/svg/gmail.svg)](mailto:drm54@students.uwf.edu)
+[![Github](https://github.com/dyl77/dyl77/blob/main/images/svg/github.svg)](https://github.com/dyl77=250x)
+[![Linkedin](https://github.com/dyl77/dyl77/blob/main/images/svg/linkedin.svg)](https://www.linkedin.com/in/dylan-morris-2044371a1/=250x)
+[![Gmail](https://github.com/dyl77/dyl77/blob/main/images/svg/gmail.svg)](mailto:drm54@students.uwf.edu=250x)
 
 ## ***About me:***
 
