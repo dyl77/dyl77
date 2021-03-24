@@ -17,7 +17,7 @@
 
 <details>
 <summary>Technologies I Know</summary>
-<img src= 'https://github.com/dyl77/dyl77/main/images/svg/c-original.svg' width='30'/>
+<img src= 'https://github.com/dyl77/dyl77/blob/main/images/svg/c-original.svg' width='30'/>
 
 
 
