@@ -4,7 +4,7 @@
 ***
 
 ## Reach Out To Me!
-<a href="https://github.com/dyl77">
+<!-- <a href="https://github.com/dyl77">
   <img src="https://github.com/dyl77/dyl77/blob/main/images/svg/github.svg" alt="Github" style="width:50px;height:50px;">
 </a>
 
@@ -14,7 +14,7 @@
 
 <a href="mailto:drm54@students.uwf.edu=250x">
   <img src="https://github.com/dyl77/dyl77/blob/main/images/svg/gmail.svg" alt="Gmail" style="width:50px;height:50px;">
-</a>
+</a> -->
 
 
 ## ***About me:***
