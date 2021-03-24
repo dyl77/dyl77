@@ -42,8 +42,8 @@
    -  Will evaluate inputs to see if the string fits the language
 
 
-
-## ***💻Technologies I Use***
+<details>
+  <summary>💻Technologies I Use</summary>
 <img src= 'https://github.com/dyl77/dyl77/blob/main/images/svg/c-original.svg' width='50'/>
 <img src= 'https://github.com/dyl77/dyl77/blob/main/images/svg/cpp.svg' width='50'/>
 <img src= 'https://github.com/dyl77/dyl77/blob/main/images/svg/java.svg' width='50'/>
