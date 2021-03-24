@@ -12,8 +12,12 @@
   <img src="images/svg/linkedin.svg" alt="LinkedIn" width="50px" height="50px;">
 </a>
 
-<a href="mailto:drm54@students.uwf.edu=250x">
+<a href="mailto:drm54@students.uwf.edu">
   <img src="images/svg/gmail.svg" alt="Gmail" width="50px" height="50px;">
+</a>
+
+<a href="https://discordapp.com/users/Dyl77#3381">
+  <img src="images/svg/discord.svg" alt="Discord" width="50px" height="50px;">
 </a>
 
 
