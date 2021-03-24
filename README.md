@@ -43,14 +43,14 @@
 
 <details>
 <summary>💻Technologies I Use</summary>
-<img src= 'https://github.com/dyl77/dyl77/blob/main/images/svg/c-original.svg' width='30'/>
-<img src= 'https://github.com/dyl77/dyl77/blob/main/images/svg/cpp.svg' width='30'/>
-<img src= 'https://github.com/dyl77/dyl77/blob/main/images/svg/java.svg' width='30'/>
-<img src= 'https://github.com/dyl77/dyl77/blob/main/images/svg/kotlin.svg' width='30'/>
-<img src= 'https://github.com/dyl77/dyl77/blob/main/images/svg/python.svg' width='30'/>
-<img src= 'https://github.com/dyl77/dyl77/blob/main/images/svg/git.svg' width='30'/>
-<img src= 'https://github.com/dyl77/dyl77/blob/main/images/svg/android.svg' width='30'/>
-<img src= 'https://github.com/dyl77/dyl77/blob/main/images/svg/mysql.svg' width='30'/>
+<img src= 'https://github.com/dyl77/dyl77/blob/main/images/svg/c-original.svg' width='50'/>
+<img src= 'https://github.com/dyl77/dyl77/blob/main/images/svg/cpp.svg' width='50'/>
+<img src= 'https://github.com/dyl77/dyl77/blob/main/images/svg/java.svg' width='50'/>
+<img src= 'https://github.com/dyl77/dyl77/blob/main/images/svg/kotlin.svg' width='50'/>
+<img src= 'https://github.com/dyl77/dyl77/blob/main/images/svg/python.svg' width='50'/>
+<img src= 'https://github.com/dyl77/dyl77/blob/main/images/svg/git.svg' width='50'/>
+<img src= 'https://github.com/dyl77/dyl77/blob/main/images/svg/android.svg' width='50'/>
+<img src= 'https://github.com/dyl77/dyl77/blob/main/images/svg/mysql.svg' width='50'/>
 
 
 
