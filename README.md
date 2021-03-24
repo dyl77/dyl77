@@ -27,7 +27,7 @@
   
 - 📄 Feel free to look at  [My Resume!](https://docs.google.com/document/d/17Kdck4tiQxwG2MVJ2ZKFPP7ggHV4NawPrp_RClDjAV0/edit?usp=sharing)
 
-***
+
 ## ***Current Projects:***
  <img width="300" src="images/gifs/catTyping.gif"></img>
 
