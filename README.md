@@ -23,7 +23,7 @@
   - Graduating December 2021
 - 📡 Currently working as an Undergraduate Researcher at the University of West Florida
   - Developing Android Applications to train Situational Awareness in medical staff
-- 💾 Also working as a Student Database for UWF Center for CyberSecurity
+- 💾 Also working as a Student Database Developer for UWF Center for CyberSecurity
   
 - 📄 Feel free to look at  [My Resume!](https://docs.google.com/document/d/17Kdck4tiQxwG2MVJ2ZKFPP7ggHV4NawPrp_RClDjAV0/edit?usp=sharing)
 
