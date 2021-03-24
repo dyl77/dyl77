@@ -1,20 +1,20 @@
 <img src="images/gifs/header.gif"></img>
 
-## <center>Hi! I'm Dylan Morris, a student developer from Pensacola, Florida🌊</center>
-***
+## Hi! I'm Dylan Morris, a student developer from Pensacola, Florida🌊
+
 
 ## Reach Out To Me!
-<!-- <a href="https://github.com/dyl77">
-  <img src="https://github.com/dyl77/dyl77/blob/main/images/svg/github.svg" alt="Github" style="width:50px;height:50px;">
+<a href="https://github.com/dyl77">
+  <img src="images/svg/github.svg" alt="Github" style="width:50px;height:50px;">
 </a>
 
 <a href="https://www.linkedin.com/in/dylan-morris-2044371a1/=250x">
-  <img src="https://github.com/dyl77/dyl77/blob/main/images/svg/linkedin.svg" alt="LinkedIn" style="width:50px;height:50px;">
+  <img src="images/svg/linkedin.svg" alt="LinkedIn" style="width:50px;height:50px;">
 </a>
 
 <a href="mailto:drm54@students.uwf.edu=250x">
-  <img src="https://github.com/dyl77/dyl77/blob/main/images/svg/gmail.svg" alt="Gmail" style="width:50px;height:50px;">
-</a> -->
+  <img src="images/svg/gmail.svg" alt="Gmail" style="width:50px;height:50px;">
+</a>
 
 
 ## ***About me:***
