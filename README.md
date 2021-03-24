@@ -5,15 +5,15 @@
 
 ## Reach Out To Me!
 <a href="https://github.com/dyl77">
-  <img src="images/svg/github.svg" alt="Github" style="width:50px;height:50px;">
+  <img src="images/svg/github.svg" alt="Github" width="50px" height="50px;">
 </a>
 
 <a href="https://www.linkedin.com/in/dylan-morris-2044371a1/=250x">
-  <img src="images/svg/linkedin.svg" alt="LinkedIn" style="width:50px;height:50px;">
+  <img src="images/svg/linkedin.svg" alt="LinkedIn" width="50px" height="50px;">
 </a>
 
 <a href="mailto:drm54@students.uwf.edu=250x">
-  <img src="images/svg/gmail.svg" alt="Gmail" style="width:50px;height:50px;">
+  <img src="images/svg/gmail.svg" alt="Gmail" width="50px" height="50px;">
 </a>
 
 
