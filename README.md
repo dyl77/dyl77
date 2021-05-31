@@ -26,6 +26,7 @@
 - 👨‍🎓 I'm currently working towards a Bachelor's in Computer Science at The Univeristy of West Florida
   - Graduating December 2021
   - Current GPA: 3.15
+- Employed with Dematic as a Software Engineering Intern
 - 📡 Currently working as an Undergraduate Researcher at the University of West Florida
   - Developing Android Applications to train Situational Awareness in medical staff
 - 💾 Also working as a Student Database Developer for UWF Center for CyberSecurity
