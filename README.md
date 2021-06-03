@@ -37,11 +37,11 @@
 ## ***Current Projects:***
  <img width="300" src="images/gifs/catTyping.gif"></img>
 
-  - **🎵 Jukebox Jam: Synchronous music player for listening to music with friends**
+  - **🎵 Jukebox Jam: (Complete) Synchronous music player for listening to music with friends**
     - Developing alongside other students using agile-scrum methods
     - Built using HTML, CSS and Javascript
     - Desktop app via the Electron framework
--  **⚗️ Finite State Automata Creator: Scientific tool for creating/evaluating FSA's**
+-  **⚗️ Finite State Automata Creator: (Complete) Scientific tool for creating/evaluating FSA's**
    -  Created using Python and the Tkinter library for GUI creation
    -  Creates FSA's with only an input string
    -  Will evaluate inputs to see if the string fits the language
