@@ -59,6 +59,8 @@
   <img src= 'https://github.com/dyl77/dyl77/blob/main/images/svg/javascript.svg' width='50'/>
   <img src= 'https://github.com/dyl77/dyl77/blob/main/images/svg/jest.svg' width='50'/>
   <img src= 'https://github.com/dyl77/dyl77/blob/main/images/svg/Node.js_logo.svg' width='50'/>
+  <img src= 'https://github.com/dyl77/dyl77/blob/main/images/svg/docker.png' width='50'/>
+  <img src= 'https://github.com/dyl77/dyl77/blob/main/images/svg/gcp.svg' width='50'/>
 
 
 
