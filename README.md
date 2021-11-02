@@ -1,6 +1,7 @@
 <img src="images/gifs/header.gif"></img>
 
-## Hi! I'm Dylan Morris, a student developer from Pensacola, Florida🌊
+## Hi! I'm Dylan Morris, a developer from Pensacola, Florida🌊
+## I'm looking for a Software Engineering Position!
 
 
 ## Reach Out To Me!
@@ -12,7 +13,7 @@
   <img src="images/svg/linkedin.svg" alt="LinkedIn" width="50px" height="50px;">
 </a>
 
-<a href="mailto:drm54@students.uwf.edu">
+<a href="mailto:morris.dyl77@gmail.com">
   <img src="images/svg/gmail.svg" alt="Gmail" width="50px" height="50px;">
 </a>
 
@@ -55,6 +56,9 @@
 <img src= 'https://github.com/dyl77/dyl77/blob/main/images/svg/git.svg' width='50'/>
 <img src= 'https://github.com/dyl77/dyl77/blob/main/images/svg/android.svg' width='50'/>
 <img src= 'https://github.com/dyl77/dyl77/blob/main/images/svg/mysql.svg' width='50'/>
+  <img src= 'https://github.com/dyl77/dyl77/blob/main/images/svg/javascript.svg' width='50'/>
+  <img src= 'https://github.com/dyl77/dyl77/blob/main/images/svg/jest.svg' width='50'/>
+  <img src= 'https://github.com/dyl77/dyl77/blob/main/images/svg/Node.js_logo.svg' width='50'/>
 
 
 
