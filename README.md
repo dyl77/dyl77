@@ -1,7 +1,7 @@
 <img src="images/gifs/header.gif"></img>
 
 ## Hi! I'm Dylan Morris, a developer from Pensacola, Florida🌊
-## I'm looking for a Software Engineering Position!
+### I'm looking for a Software Engineering Position!
 
 
 ## Reach Out To Me!
