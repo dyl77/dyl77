@@ -34,7 +34,7 @@
 
 ## ***Current Projects:***
  <img width="300" src="images/gifs/catTyping.gif"></img>
--  **(In-Progess)🔒 Anonym-Us: Privacy Suite**
+-  **(Complete)🔒 Anonym-Us: Privacy Suite**
    -  Created using React and the Electron
    -  Provides users with enhanced online privacy protection via flexible email accounts
    -  Obfuscates personal information when signing up for online accounts
