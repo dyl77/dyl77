@@ -1,7 +1,6 @@
 <img src="images/gifs/header.gif"></img>
 
-## Hi! I'm Dylan Morris, a developer from Pensacola, Florida🌊
-### I'm looking for a Software Engineering Position!
+## Hi! I'm Dylan Morris. I'm a Software Engineer from Pensacola, Florida🌊
 ### Here's my full website: [dylanmorris.dev](https://dylanmorris.dev)
 
 
@@ -27,13 +26,18 @@
 
 - 👨‍🎓 I'm currently working towards a Masters in Computer Science at Vanderbilt University
   - I've also recieved my Bachelors in Computer Science from The University of West Florida.
-- 💾 Employed with Dematic as a Software Engineering Intern
+- 📦 Employed with Dematic as a Software Engineer developing supply chain sortation systems!
   
 - 📄 Feel free to look at  [My Resume!](https://docs.google.com/document/d/17Kdck4tiQxwG2MVJ2ZKFPP7ggHV4NawPrp_RClDjAV0/edit?usp=sharing)
 
 
 ## ***Current Projects:***
  <img width="300" src="images/gifs/catTyping.gif"></img>
+ 
+-  **(In-Progress)👁 DeepFake Detector**
+  - Created using Python and AWS
+  - Social media bots will allow users to send videos to determine their authenticity
+  - The bots will respond with a determination/rating on the video
 -  **(Complete)🔒 Anonym-Us: Privacy Suite**
    -  Created using React and the Electron
    -  Provides users with enhanced online privacy protection via flexible email accounts
