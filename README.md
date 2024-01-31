@@ -1,7 +1,6 @@
 <img src="images/gifs/header.gif"></img>
 
 ## Hi! I'm Dylan Morris. I'm a Software Engineer from Pensacola, Florida🌊
-### Here's my full website: [dylanmorris.dev](https://dylanmorris.dev)
 
 
 ## Reach Out To Me!
@@ -35,9 +34,9 @@
  <img width="300" src="images/gifs/catTyping.gif"></img>
  
 -  **(In-Progress)👁 DeepFake Detector**
-  - Created using Python and AWS
-  - Social media bots will allow users to send videos to determine their authenticity
-  - The bots will respond with a determination/rating on the video
+    - Created using Python and AWS
+    - Social media bots will allow users to send videos to determine their authenticity
+    - The bots will respond with a determination/rating on the video
 -  **(Complete)🔒 Anonym-Us: Privacy Suite**
    -  Created using React and the Electron
    -  Provides users with enhanced online privacy protection via flexible email accounts
