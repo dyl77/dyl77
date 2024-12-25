@@ -23,7 +23,7 @@
 
 ## ***About me:***
 
-- 👨‍🎓 I'm currently working towards a Masters in Computer Science at Vanderbilt University
+- 👨‍🎓 I've completed my Masters in Computer Science at Vanderbilt University
   - I've also recieved my Bachelors in Computer Science from The University of West Florida.
 - 📦 Employed with Dematic as a Software Engineer developing supply chain sortation systems!
   
@@ -33,7 +33,7 @@
 ## ***Current Projects:***
  <img width="300" src="images/gifs/catTyping.gif"></img>
  
--  **(In-Progress)👁 DeepFake Detector**
+-  **(Complete)👁 DeepFake Detector**
     - Created using Python and AWS
     - Social media bots will allow users to send videos to determine their authenticity
     - The bots will respond with a determination/rating on the video
@@ -48,7 +48,7 @@
 
 
 <details open>
-  <summary>💻Technologies I Use</summary>
+  <summary>💻 I Use</summary>
 <img src= 'https://github.com/dyl77/dyl77/blob/main/images/svg/c-original.svg' width='50'/>
 <img src= 'https://github.com/dyl77/dyl77/blob/main/images/svg/cpp.svg' width='50'/>
 <img src= 'https://github.com/dyl77/dyl77/blob/main/images/svg/java.svg' width='50'/>
